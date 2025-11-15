@@ -1,5 +1,6 @@
 # 👋 About Me:
-I'm a student currently working through the freeCodeCamp Full Stack Certification. My goal is to build sustainable, real-world projects that integrate Artificial Intelligence and Deep Learning.<br>
+I'm a student currently working through the freeCodeCamp Full Stack Certification.<br> 
+My goal is to build sustainable, real-world projects that integrate Artificial Intelligence and Deep Learning.<br><br>
 🌱 Currently Learning: JavaScript & Machine Learning (Regression/Classification Models).<br>
 🧠 Actively Exploring: Deep Learning (DL) and Neural Networks.<br>
 🤝 Open to Collaboration: I'm looking for opportunities to apply these skills and contribute to impactful projects.<br>
