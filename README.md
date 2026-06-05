@@ -1,4 +1,4 @@
-## Building Fullstack System & ML Projects
+## Building FullStack Systems & ML Projects
 Figuring it out.
 
 ## 🌐 Socials:
